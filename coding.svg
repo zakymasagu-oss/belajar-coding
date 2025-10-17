@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 400">
+    <defs>
+        <path id="heartPath" d="M250,50 C120,50,50,150,50,250 C50,350,150,400,250,330 C350,400,450,350,450,250 C450,150,380,50,250,50 Z"/>
+    </defs>
+    <text>
+        <textPath href="#heartPath" font-size="20" fill="#FF69B4" text-anchor="middle" startOffset="0%">
+            I Love You I Love You I Love You I Love You I Love You I Love You I Love You I Love You I Love You I Love You I Love You
+        </textPath>
+    </text>
+</svg>
